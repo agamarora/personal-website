@@ -1,0 +1,7 @@
+Pillow
+streamlit
+plotly
+numpy
+requests
+pathlib
+streamlit-lottie
