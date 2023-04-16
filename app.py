@@ -13,7 +13,7 @@ import streamlit.components.v1 as components
 # --- PATH SETTINGS ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
-resume_file = current_dir / "assets" / "Resume_AgamArora.pdf"
+resume_file = current_dir / "assets" / "Resume_Sample.pdf"
 
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Product Data Science | Agam Arora"
